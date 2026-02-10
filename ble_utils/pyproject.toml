@@ -1,0 +1,12 @@
+
+[project]
+name = "ble_utils"
+version = "0.0.2"
+
+dependencies = [
+    "bleak >= 1.0",
+]
+
+
+[project.scripts]
+    blescan = "blescan:main"

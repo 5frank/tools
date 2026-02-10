@@ -1,0 +1,4 @@
+Metadata-Version: 2.4
+Name: ble_utils
+Version: 0.0.2
+Requires-Dist: bleak>=1.0
